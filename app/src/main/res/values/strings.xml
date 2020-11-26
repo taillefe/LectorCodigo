@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LectorCodigo</string>
+
+    <string name="ESCANEAR">ESCANEAR</string>
+    <string name="CODIGOESCANEADO">CODIGO ESCANEADO</string>
+    <string name="CODIGOQR">CÓDIGO QR</string>
+    <string name="SALIR">SALIR</string>
+
+
+</resources>
